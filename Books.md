@@ -79,17 +79,17 @@
 - [Från jorden till månen(it)]
 - [1984(eS,sS,cD,cP)]()
 - [Mannen som slutade ljuga(sS,cI)]()
-- [The Martian(it)]
-- [101 sci-fi-filmer du måste se innan du dör(it)]
-- [Prodigy(it)]
-- [8 bitar på 80-talet(sS,cI,cN)]()
-- [Konsten att ha sjukt låga förväntningar(sS,cN,Sk)]()
-- [Cyberiaden(it)]
-- [Uppdrag i universum(sS,cS,cK)]()
-- [Inga hjältar här(sS,cS,cK)]()
-- [Ready player one(eS,cD,cN)]()
-- [Hungerspelen(eS,S,it)]
-- [Dirk Gentlys holistiska detektivbyrå(it)]
-- [Miss Peregrines hem för besynnerliga barn(it)]
-- [Guldkompassen(it)]
-- [Hur du stjäl en drakes svärd(S,it)]
+- [The Martian								(it)]
+- [101 sci-fi-filmer du måste se innan du dör	(it)]
+- [Prodigy									(it)]
+- [8 bitar på 80-talet						(sS,cI,cN)]()
+- [Konsten att ha sjukt låga förväntningar	(sS,cN,Sk)]()
+- [Cyberiaden								(it)]
+- [Uppdrag i universum						(sS,cS,cK)]()
+- [Inga hjältar här							(sS,cS,cK)]()
+- [Ready player one							(eS,cD,cN)]()
+- [Hungerspelen								(eS,S,it)]
+- [Dirk Gentlys holistiska detektivbyrå		(it)]
+- [Miss Peregrines hem för besynnerliga barn	(it)]
+- [Guldkompassen								(it)]
+- [Hur du stjäl en drakes svärd				(S,it)]
