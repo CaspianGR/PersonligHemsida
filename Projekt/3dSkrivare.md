@@ -23,9 +23,6 @@ Mållet med den här skrivaren är att bygga en relativt snabb 3D-skrivare som u
 - [Lukes Lab](https://www.lukeslabonline.com/)
 
 
-
-
-
 ## Komponenter
 
 ### Kropen
