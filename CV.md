@@ -12,7 +12,6 @@ Telefonnummer: **+46 79 348 44 81**
 
 Email: Caspianrosengren@gmail.com
 
-
 # Om mig
 
 I höstas började jag läsa på ingenjörsprogrammet med inriktning elektroteknik med automation Jag har många spridda intressen men det som intresserar mig mest är radiokommunikation, 3D skrivning och 3D design. Har både erfarenhet inom hög effekt och lång distans överföring av data tack vare mitt engamenamn inom FRO men även låg effekt dataöverföring via LORA sändare. 3D skrivare har varit mitt intresse länge vilket har gjort att jag designat och byggt en prototyp. Att lösa problem som uppstår tycker jag är roligt och intressant, det kan vara allt från att designa små krokar för att modifiera en befintlig hängare till att få en gammal radiosändare att fungera.
@@ -41,13 +40,17 @@ Förutom mina studier så är jag aktiv inom FRO i Malmö, Logistikansvarig för
 
 # Arbete
 
-Instruktör vattenhallen  Helsingborg/Lund				HT 2024  - pågående
-Simtränare Simklubben Helsingborg					HT 2024
-Simtränare Simklubben Poseidon 					juni 2021 - augusti 2024
+
+
+| Arbetsgivare                               | Tid                      |
+| -------------------------------------------- | -------------------------- |
+| Instruktör vattenhallen  Helsingborg/Lund | HT 2024  - pågående    |
+| Simtränare Simklubben Helsingborg         | HT 2024 - VT 2025        |
+| Simtränare Simklubben Poseidon            | juni 2021 - augusti 2024 |
 
 ## Övriga aktiviteter
 
-Logistikansvarig för ETF (Electro tekniska föreningen) på LTH
-Ungdomsledare för lufsar grupper inom friluftsfrämjandet
-Delaktig i anordnat av aktiviteter inom friluftsfrämjandet
-Designat styrelektronik till äldre radio modeller inom FRO verksamhet
+- Logistikansvarig för ETF (Electro tekniska föreningen) på LTH
+- Ungdomsledare för lufsar grupper inom friluftsfrämjandet
+- Delaktig i anordnat av aktiviteter inom friluftsfrämjandet
+- Designat styrelektronik till äldre radio modeller inom FRO verksamhet
