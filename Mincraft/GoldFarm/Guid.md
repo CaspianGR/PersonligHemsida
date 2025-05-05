@@ -9,13 +9,13 @@
 ## Content
 
 - [Description]()
-- [Setup](https://sacgr.github.io/NicoGoldFarmGuid/#setup)
-- [Compatiblity](https://sacgr.github.io/NicoGoldFarmGuid/#compatibility)
-- [How to use it](https://sacgr.github.io/NicoGoldFarmGuid/#how-to-use-it)
-- [Ratess](https://sacgr.github.io/NicoGoldFarmGuid/#rates)
-- [Downlodes](https://sacgr.github.io/NicoGoldFarmGuid/#downloads)
-- [FaQ](https://sacgr.github.io/NicoGoldFarmGuid/#faq)
-- [Contact Me](https://sacgr.github.io/NicoGoldFarmGuid/#contact-me)
+- [Setup](https://Caspian.rosengren.nu/Mincraft/GoldFarm/Guid/#setup)
+- [Compatiblity](https://Caspian.rosengren.nu/Mincraft/GoldFarm/Guid/#compatibility)
+- [How to use it](https://Caspian.rosengren.nu/Mincraft/GoldFarm/Guid/#how-to-use-it)
+- [Ratess](https://Caspian.rosengren.nu/Mincraft/GoldFarm/Guid/#rates)
+- [Downlodes](https://Caspian.rosengren.nu/Mincraft/GoldFarm/Guid/#downloads)
+- [FaQ](https://Caspian.rosengren.nu/Mincraft/GoldFarm/Guid/#faq)
+- [Contact Me](https://Caspian.rosengren.nu/Mincraft/GoldFarm/Guid/#contact-me)
 
 ## Description
 
@@ -56,9 +56,8 @@ The farm was first described in Nicos video [*"How to Design the MOST Optimized 
 
 ### Vanila
 
-
 | Update | Compatibility                                     |
-| -------- | --------------------------------------------------- |
+| ------ | ------------------------------------------------- |
 | <1.19  | Need to replace the Chest Boats with normal boats |
 | >1.19  | Compatible                                        |
 
@@ -74,9 +73,8 @@ Works on the standard profile but can be changed by plugins that the owner adds,
 
 ## Rates
 
-
 |    Item | Amount |
-| --------: | -------- |
+| ------: | ------ |
 |    Gold | 1      |
 | Nuggets | 1      |
 |  Swords | 1      |
@@ -84,13 +82,12 @@ Works on the standard profile but can be changed by plugins that the owner adds,
 
 ## Downlods
 
-
-|                      File | Link                                                                                                        |   |
-| --------------------------: | ------------------------------------------------------------------------------------------------------------- | --- |
+|                      File | Link                                                                                                     |   |
+| ------------------------: | -------------------------------------------------------------------------------------------------------- | - |
 |                Nicos farm | [link](https://Caspian.rosengren.nu/Mincraft/GoldFarm/NIL_Auto-Opti_Gold_Farm.litematic)                    |   |
 | LonelyKat Killing chamber | [link](https://Caspian.rosengren.nu/Mincraft/GoldFarm/4_way_boat_looting_collection.litematic)              |   |
 |            MaggieDog farm | [link](https://Caspian.rosengren.nu/Mincraft/GoldFarm/NIL_Auto-Opti_Gold_Farm_MD's_cheap_version.litematic) |   |
-|            Storage system | contact me                                                                                                  |   |
+|            Storage system | contact me                                                                                               |   |
 
 ## FaQ
 
@@ -113,3 +110,4 @@ Works on the standard profile but can be changed by plugins that the owner adds,
 - Add photos
 - update the formatting one build instructions
 - clarify placement instructions
+
