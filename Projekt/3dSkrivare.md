@@ -27,23 +27,20 @@ xy Axlen är en modefierad [Monolith Gantry](https://github.com/CloakedWayne/Mon
 
 ---
 
-
-
 ### Z axel
 
 Tills vidare kommer jag behålla den ursprungliga Z-axeln, men jag kommer nog uppgradera till en trepunkts dynamisk platta i framtiden.
+
 ---
-
-
 
 ### Extruder
 
 Det fins 3 alternativ hur jag vill göra med dellen som mattar plast
 
 1. [BondTech idax](https://www.bondtech.se/indx-by-bondtech/)(har inte sleps när jag skriver detta)
-    1. Problemet med detta alternativ är att det inte når den temperatur jag vill ha.
-    2. Ett annat är att det inte kommer att passa med systemet jag har som värmesköld.
-    3. Fördelen är att det är en tool changer.
+   1. Problemet med detta alternativ är att det inte når den temperatur jag vill ha.
+   2. Ett annat är att det inte kommer att passa med systemet jag har som värmesköld.
+   3. Fördelen är att det är en tool changer.
 2. [LGX PRO](https://www.bondtech.se/product/lgx-pro-large-gears-extruder/) + [LGX ACE Magnum](https://www.bondtech.se/product/lgx-ace-magnum-plus-hotend/)
    1. Problemet med det här valet är att det kommer att vara lagom dyrt och väga ganska mycket.
    2. Fördelen är att den är en hållfast design som kommer att hålla och låta mig printa ganska snabbt eller verkligen smälta plasten.
@@ -54,11 +51,7 @@ Det fins 3 alternativ hur jag vill göra med dellen som mattar plast
    1. Största nackdelen är att den inte kommer att vara så stabil, och om vattenvarianten används så måste jag dra vattenkylning.
    2. Fördelarna är att den kommer att kunna smälta enorma mängder plast, och att den är vattenkyld så om jag ändå behöver dra vattenkylning så är den användbar.
 
-
-
 ---
-
-
 
 ### Electronik
 
