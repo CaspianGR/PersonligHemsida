@@ -13,9 +13,10 @@
 
 
 | Projekt                                                                            | Kategori |
-| ------------------------------------------------------------------------------------ | ---------- |
+| ------------------------------------------------------------------------------------ | :--------- |
 | [Knapp panel](https://caspian.rosengren.nu/Projekt/KnappPanel.html)                | F,if     |
 | [Server rak](https://caspian.rosengren.nu/Projekt/ServerRak.html)                  | P,if     |
 | [Vatenraket](https://caspian.rosengren.nu/Projekt/Vatenraket.html)                 | I,if     |
 | [Högtemperatur 3d skrivare](https://caspian.rosengren.nu/Projekt/3dSkrivare.html) | A        |
 | [Linux](https://caspian.rosengren.nu/Projekt/Linux.html)                           | A,if     |
+| [Mincraft](https://caspian.rosengren.nu/Mincraft.htnml)                            | A        |
