@@ -2,18 +2,18 @@
 
 ## Mål
 
-Mållet med den här skrivaren är att bygga en relativt snabb 3d skivar som upfyller följande mål
+Mållet med den här skrivaren är att bygga en relativt snabb 3D-skrivare som uppfyller följande mål:
 
-- 450c pipa
-- 90c kammare
-- 100c plata
-- Få plats i rammen jag reda har
-- Möjlighet att vattenkyla Stegmotoren och cold end om märmeskölden inte fungerar
-- Integrerad och automatisk brandsläkare
+- 450 °C pipa
+- 90 °C kammare
+- 100 °C platta
+- Få plats i ramen jag redan har
+- Möjlighet att vattenkyla stegmotorn och cold end om värmeskölden inte fungerar
+- Integrerad och automatisk brandsläckare
 - Stor skärm för operatören
-- Integreradt filltrerings system till utsug och stöd för att kunna ärseta all luft i kommaren när en utskriften är förding
-- Bra nog isolation så att utsidan är inte varm
-- Ordentlig och över spekad el system
+- Integrerat filtreringssystem till utsug och stöd för att kunna ersätta all luft i kammaren när utskriften är färdig
+- Tillräckligt bra isolering så att utsidan inte är varm
+- Ordentligt och överspecat elsystem
 
 ## Komponenter
 
