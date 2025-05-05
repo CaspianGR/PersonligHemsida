@@ -96,3 +96,4 @@
 | [Miss Peregrines hem för besynnerliga barn]() | it |
 | [Guldkompassen]() | it |
 | [Hur du stjäl en drakes svärd]() | S,it |
+| [Frieren]() | eS,cM |
