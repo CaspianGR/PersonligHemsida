@@ -1,11 +1,17 @@
 **Kontaktuppgifter**
 
 **Caspian Godzwon Rosengren**
+
 **Södra strandgatan 1**
+
 **252 24 Helsingborg**
+
 Född 26 mars 2005
+
 Telefonnummer: **+46 79 348 44 81**
+
 Email: Caspianrosengren@gmail.com
+
 
 # Om mig
 
@@ -14,8 +20,9 @@ Förutom mina studier så är jag aktiv inom FRO i Malmö, Logistikansvarig för
 
 # Utbildning
 
+
 | Titel                                        | Instotetion                                | tid                 |
-| -------------------------------------------- | ------------------------------------------ | ------------------- |
+| ---------------------------------------------- | -------------------------------------------- | --------------------- |
 | Ingenjör elektroteknik med automation  180p | LTH                                        | start HT 2024       |
 | Teknisk linje                                | Gymnasium Polhemskolan i LundPolhes skolan | studenten juni 2024 |
 
@@ -23,7 +30,7 @@ Förutom mina studier så är jag aktiv inom FRO i Malmö, Logistikansvarig för
 
 
 | Utbildning                         | Organisation             | Datum          |
-| ---------------------------------- | ------------------------ | -------------- |
+| ------------------------------------ | -------------------------- | ---------------- |
 | Radiooperatör                     | FRO                      | september 2024 |
 | Grundutbildning för tränare      | RF Sisu                  | december 2023  |
 | Säkerhet i kanot och paddelteknik | Friluftsfrämjandet      | augusti 2022   |
@@ -31,7 +38,6 @@ Förutom mina studier så är jag aktiv inom FRO i Malmö, Logistikansvarig för
 | Simtränare utbildning             | Poseidon Lund            | maj 2021       |
 | Hitta Vilse-ledare                 | Civilförsvarsförbundet | maj 2021       |
 | Ung ledarutbildning                | Friluftsfrämjandet      | april 2021     |
-
 
 # Arbete
 
