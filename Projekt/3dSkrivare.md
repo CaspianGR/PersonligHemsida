@@ -15,6 +15,17 @@ Mållet med den här skrivaren är att bygga en relativt snabb 3D-skrivare som u
 - Tillräckligt bra isolering så att utsidan inte är varm
 - Ordentligt och överspecat elsystem
 
+## Botiker
+
+- [Motedis](https://www.motedis.se/se)
+- [3dkatten](https://www.3dkatten.se/ "https://www.3dkatten.se")
+- [BondTech](https://www.bondtech.se/)
+- [Lukes Lab](https://www.lukeslabonline.com/)
+
+
+
+
+
 ## Komponenter
 
 ### Kropen
