@@ -25,9 +25,17 @@ Baserad på en Mingda Glitar 6c
 
 xy Axlen är en modefierad [Monolith Gantry](https://github.com/CloakedWayne/Monolith_Gantry_V2-VThttps:/) där jag har ampasat dimetionerna så att de får plats i ramen och jag har ärsat 3030 aluminom extrusion med 30x30 stål rör och 30x20 stål rör för y axlen eftersom att den är mindere. De stål platter som kommer krävas för Monolith Gantry kommer skäras ut av någon lokalt företag, stålrören kommer köpal lokalt och hålen kommer boras på ETF, och alla kommponenetr kommer köpas uta av [3dkatten](https://www.3dkatten.se/ "https://www.3dkatten.se")
 
+---
+
+
+
 ### Z axel
 
 Tills vidar kommer jag behåla den ursprungliga z axlen men jag kommer nog upgradera till en 3 punkt dynamisk plata i framtiden
+
+---
+
+
 
 ### Extruder
 
@@ -47,7 +55,13 @@ Det fins 3 alternativ hur jag vill göra med dellen som mattar plast
    1. Största nakdelen är att den inte kommer vara så stabil och om vaten varianten avänds så måste jag dra vattenkylning
    2. fördellar är att den kommer kuna smälta enorma mengder plast och att den är vattenkyld så om jag endå behöver dra vatenkylning så är den använbar
 
- Electronik
+
+
+---
+
+
+
+### Electronik
 
 - xy axlen kommer använda [LDO-42STH48-2504AHS8 S55](https://3dkatten.se/products/ldo-42sth48-2504ahs8-s55-1) stegmotorer tills vidar
 - [Duet 3d](https://www.duet3d.com/) kommer användas för all kontrol electronik
