@@ -1,6 +1,6 @@
 # Inläg
 
 
-| [19-25](https://Caspian.rosengern.nu/blog/19-25.html)  |
+| [19-25](https://caspian.rosengern.nu/blog/19-25.html)  |
 | :------------------------------------------------------- |
-| [Templet](https://Caspian.rosengern.nu/blog/mall.html) |
+| [Templet](https://caspian.rosengern.nu/blog/mall.html) |
