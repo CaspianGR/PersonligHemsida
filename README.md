@@ -1,4 +1,5 @@
 - [Böker jag Gillar](https://caspian.rosengren.nu/Books.html)
+- [Fillmer jag har tittat på](https://caspian.rosengren.nu/filmer.html)
 - [Projekt](https://caspian.rosengren.nu/Projekt.html)
 - [CV](https://caspian.rosengren.nu/CV.html)
 - [Blog](https://Caspian.rosengren.nu/blog.html)
