@@ -4,6 +4,10 @@
 
 På komponenter som vi har alldeles för många av så är det gratis, på de komponenter som vi har lite färre av så kostar komponenten lika mycket som det billigaste priset på en annan hemsida.
 
+# Hur du besteler
+
+Skicka vad du behöver och hur många till sales@etf.nu så kan vi kordenera var och när du vill hämta produkten 
+
 # Invetering
 
 Detta är vad som finns i lagret. Om någonting som du söker inte finns här så kontakta oss på e-post (sales@etf.nu) så kan jag se om jag kan hitta komponenten.
