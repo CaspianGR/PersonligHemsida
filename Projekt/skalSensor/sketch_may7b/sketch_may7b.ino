@@ -96,35 +96,35 @@ void var10s(){
   //behöver läga till att den mäter luft fuktigheten
 
   if(co2M>maxCo2 && tvM > maxTvM){
-    faraNivå = 2
+    faraNivå = 2;
   }
   else if(co2M>axeptabelCo2 && tvM > axeptabelTvM){
-   faraNivå = 1
+   faraNivå = 1;
   }
   else if(co2M<axeptabelCo2 && tvM < axeptabelTvM && faraNivå > 0){
-    faraNivå = 0
+    faraNivå = 0;
   }
   switch (faraNivå) {//detta är för att välja rät led
 
       case 0:
 
-        digitalWrite(LedRed, 0);
-        digitalWrite(LedGul, 0);
-        digitalWrite(LedGren, 1);
+        digitalWrite(ledRed, 0);
+        digitalWrite(ledGul, 0);
+        digitalWrite(ledGren, 1);
 
         break;
 
       case 1:
 
-        digitalWrite(LedRed, 0);
-        digitalWrite(LedGul, 1);
-        digitalWrite(LedGren, 0);
+        digitalWrite(ledRed, 0);
+        digitalWrite(ledGul, 1);
+        digitalWrite(ledGren, 0);
 
         break;
       case 2
-      digitalWrite(LedRed, 1);
-        digitalWrite(LedGul, 0);
-        digitalWrite(LedGren, 10;
+      digitalWrite(ledRed, 1);
+        digitalWrite(ledGul, 0);
+        digitalWrite(ledGren, 10);
 
       break;
 
@@ -151,10 +151,3 @@ void setBuzzer(){
 }
 
 
-
-uint32_t getAbsoluteHumidity(float temperature, float humidity) {
-    // approximation formula from Sensirion SGP30 Driver Integration chapter 3.15
-    const float absoluteHumidity = 216.7f * ((humidity / 100.0f) * 6.112f * exp((17.62f * temperature) / (243.12f + temperature)) / (273.15f + temperature)); // [g/m^3]
-    const uint32_t absoluteHumidityScaled = static_cast<uint32_t>(1000.0f * absoluteHumidity); // [mg/m^3]
-    return absoluteHumidityScaled;
-}

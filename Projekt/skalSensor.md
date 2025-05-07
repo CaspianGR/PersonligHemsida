@@ -6,4 +6,4 @@ I detta projekt skall jag programmera en RP2040 som skall mäta av en VOC- och l
 
 # Kåd
 
-[se bifogad fill](https://caspian.rosengren.nu/Projekt/skalSensor/sketch_nov02a_copy_20250507222905/sketch_nov02a_copy_20250507222905.ino)
+[se bifogad fill](https://caspian.rosengren.nu/Projekt/skalSensor/sketch_may7b/sketch_may7b.ino)
