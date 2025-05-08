@@ -13,9 +13,9 @@ unsigned int tvM;
 const int maxCo2 = 100;
 const int maxTvM = 100;
 
-const int ledRöd = 5;
-const int ledGul = 6;
-const int ledGrön = 9;
+const int ledRöd = 35;
+const int ledGul = 37;
+const int ledGrön = 38;
 
 const int axeptabelCo2 = 50;
 const int axeptabelTvM = 50;
@@ -36,6 +36,7 @@ kanske inte fins 3 tystat problem  röd led med ingen buzzer
 bool buzzerLow = false;
 
 void setup() {
+  Serial.begin(9600);
     // put your setup code here, to run once:
     pinMode(buttonPin, INPUT_PULLUP);
     pinMode(ledRöd, OUTPUT);
@@ -64,7 +65,7 @@ void loop() {
   if(nästa1s < Tid){
   nästa1s = Tid+1000;
   var1s();
-
+  Serial.println("hej");
 
   }
   if(nästa10s < Tid){
@@ -108,23 +109,23 @@ void var10s(){
 
       case 0:
 
-        digitalWrite(ledRed, 0);
+        digitalWrite(ledRöd, 0);
         digitalWrite(ledGul, 0);
-        digitalWrite(ledGren, 1);
+        digitalWrite(ledGrön, 1);
 
         break;
 
       case 1:
 
-        digitalWrite(ledRed, 0);
+        digitalWrite(ledRöd, 0);
         digitalWrite(ledGul, 1);
-        digitalWrite(ledGren, 0);
+        digitalWrite(ledGrön, 0);
 
         break;
-      case 2
-      digitalWrite(ledRed, 1);
+      case 2:
+      digitalWrite(ledRöd, 1);
         digitalWrite(ledGul, 0);
-        digitalWrite(ledGren, 10);
+        digitalWrite(ledGrön, 10);
 
       break;
 
