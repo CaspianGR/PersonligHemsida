@@ -1,6 +1,3 @@
-
-
-
 //seter up voc sensern 
 #include <Wire.h>
 #include "Adafruit_SGP30.h"
@@ -53,8 +50,8 @@ axeptabelTvM = 100;
 const int axeptabelCo2 = 900;
 const int axeptabelTvM = 100;
 
-const int buttonPin = 2;
-const int buzzerPin = 3;
+const int buttonPin = 12;
+const int buzzerPin = 10;
 
 bool alarmÄrPå = false;
 short faraNivå = 0;
@@ -111,7 +108,6 @@ void loop() {
   if(nästa1s < Tid){
     nästa1s = Tid+1000;
     var1s();
-    Serial.println("hej");
 
   }
   if(nästa10s < Tid){
@@ -132,6 +128,7 @@ void var100ms(){
 
   }
   void var1s(){
+    setBuzzer();
     if(alarmÄrPå){
      buzzerLow = !buzzerLow;
    } 
@@ -170,12 +167,12 @@ else if (Co2>axeptabelCo2 || TvM > axeptabelTvM){
   alarmÄrPå = false;
 }
 else{
-  faraNivå = 0;
+  //faraNivå = 0;
   alarmÄrPå = false;
 }
-faraNivå++;
+faraNivå =  faraNivå +1;
 faraNivå = faraNivå % 3;
-
+alarmÄrPå = true;
 
 Serial.println(faraNivå);
 
@@ -199,7 +196,7 @@ Serial.println(faraNivå);
       case 2:
       digitalWrite(ledRöd, 1);
         digitalWrite(ledGul, 0);
-        digitalWrite(ledGrön, 10);
+        digitalWrite(ledGrön, 0);
 
 
 
@@ -228,5 +225,3 @@ void setBuzzer(){
     }
   }
 }
-
-
