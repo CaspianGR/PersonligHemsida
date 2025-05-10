@@ -78,13 +78,20 @@ void setup() {
     pinMode(buzzerPin, OUTPUT);
 
   //ser till att sensorn är upe
-  if (! sgp.begin()){
-    Serial.println("VOC senor not found ");
-    while (1);
+  if (!sgp.begin()){
+    
+    while (1){
+      Serial.println("VOC senor not found ");
+      delay(500);
+    }
   }
   else if (!aht.begin() ){
-    Serial.println("luft sensor not find");
-    while (1);
+    
+    while (1){
+      Serial.println("luft sensor not find");
+      
+    }
+    
   }
 
 
@@ -159,7 +166,7 @@ if(Co2>maxCo2 || TvM > maxTvM){
   alarmÄrPå = true;
 }
 else if (Co2>axeptabelCo2 || TvM > axeptabelTvM){
-  faraNivå = 1
+  faraNivå = 1;
   alarmÄrPå = false;
 }
 else{
