@@ -80,16 +80,16 @@ void setup() {
   //ser till att sensorn är upe
   if (!sgp.begin()){
     
-    while (1){
+    while (!sgp.begin()){
       Serial.println("VOC senor not found ");
       delay(500);
     }
   }
   else if (!aht.begin() ){
     
-    while (1){
+    while (!aht.begin()){
       Serial.println("luft sensor not find");
-      
+      delay(500);
     }
     
   }
@@ -174,7 +174,7 @@ else{
   alarmÄrPå = false;
 }
 
-
+Serial.println(faraNivå);
 
 
   switch (faraNivå) {//detta är för att välja rät led
