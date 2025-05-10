@@ -41,9 +41,9 @@ unsigned long nästa10s;
 const int maxCo2 = 2000;
 const int maxTvM = 200;
 
-const int ledRöd = 35;
-const int ledGul = 37;
-const int ledGrön = 38;
+const int ledRöd = 9;
+const int ledGul = 8;
+const int ledGrön = 7;
 
 
 /* med sett firke vi att 
@@ -173,6 +173,9 @@ else{
   faraNivå = 0;
   alarmÄrPå = false;
 }
+faraNivå++;
+faraNivå = faraNivå % 3;
+
 
 Serial.println(faraNivå);
 
