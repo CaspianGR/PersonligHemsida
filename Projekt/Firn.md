@@ -52,7 +52,7 @@ Nedre streket kommer jag sy på
 
 ## Tights
 
-Köpta
+[Köpta](https://www.lager157.com/sv-se/article/epic-tights-seamless-rib?attr1_id=65) efter rekommendation. 
 
 ## Gulla stikade stomper
 
