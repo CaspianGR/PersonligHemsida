@@ -2,13 +2,13 @@
 
 ## Design
 
-1. [Gul jaka](https://)
-2. [Blå hoddy](https://)
-3. [Tights](https://)
-4. [Gulla stikade stomper](https://)
-5. [Vandrings känger](https://)
-6. [Veska](https://)
-7. [Gevär](https://)
+1. [Gul jaka](https://caspian.rosengren.nu/Projekt/firnCosplay.html#gul-jagka)
+2. [Blå hoddy](https://caspian.rosengren.nu/Projekt/firnCosplay.html#bl%C3%A5-hoddy)
+3. [Tights](https://caspian.rosengren.nu/Projekt/firnCosplay.html#tights)
+4. [Gulla stikade stomper](https://caspian.rosengren.nu/Projekt/firnCosplay.html#gulla-stikade-stomper)
+5. [Vandrings känger](https://caspian.rosengren.nu/Projekt/firnCosplay.html#vandrings-k%C3%A4nger)
+6. [Veska](https://caspian.rosengren.nu/Projekt/firnCosplay.html#veska)
+7. [Gevär](https://caspian.rosengren.nu/Projekt/firnCosplay.html#gev%C3%A4r)
 
 ![](assets/20250514_220116_image.png)
 
@@ -34,7 +34,7 @@ Fikerna skall ha en knapp för att stänga och jag skall kuna få plats med en t
 
 Det skall finas knappar för att kuna stänga jagkan och en back flärp för luft flöde
 
-## Blå hoddyHod
+## Blå hoddy
 
 ### Mönster
 
