@@ -1,18 +1,18 @@
-//seter up voc sensern 
+//seter up voc sensern
 #include <Wire.h>
 #include "Adafruit_SGP30.h"
 Adafruit_SGP30 sgp;
 //förljande är snut från exempe kåd
 uint32_t getAbsoluteHumidity(float temperature, float humidity) {
-    // approximation formula from Sensirion SGP30 Driver Integration chapter 3.15
-    const float absoluteHumidity = 216.7f * ((humidity / 100.0f) * 6.112f * exp((17.62f * temperature) / (243.12f + temperature)) / (273.15f + temperature)); // [g/m^3]
-    const uint32_t absoluteHumidityScaled = static_cast<uint32_t>(1000.0f * absoluteHumidity); // [mg/m^3]
-    return absoluteHumidityScaled;
+  // approximation formula from Sensirion SGP30 Driver Integration chapter 3.15
+  const float absoluteHumidity = 216.7f * ((humidity / 100.0f) * 6.112f * exp((17.62f * temperature) / (243.12f + temperature)) / (273.15f + temperature));  // [g/m^3]
+  const uint32_t absoluteHumidityScaled = static_cast<uint32_t>(1000.0f * absoluteHumidity);                                                                 // [mg/m^3]
+  return absoluteHumidityScaled;
 }
 short counterSGP30 = 0;
 
 uint16_t Co2;
-uint16_t TvM; // TVOC
+uint16_t TvM;  // TVOC
 
 
 
@@ -66,88 +66,81 @@ kanske inte fins 3 tystat problem  röd led med ingen buzzer
 bool buzzerLow = false;
 
 void setup() {
+
   Serial.begin(9600);
-    // put your setup code here, to run once:
-    pinMode(buttonPin, INPUT_PULLUP);
-    pinMode(ledRöd, OUTPUT);
-    pinMode(ledGul, OUTPUT);
-    pinMode(ledGrön, OUTPUT);
-    pinMode(buzzerPin, OUTPUT);
+  // put your setup code here, to run once:
+  pinMode(buttonPin, INPUT_PULLUP);
+  pinMode(ledRöd, OUTPUT);
+  pinMode(ledGul, OUTPUT);
+  pinMode(ledGrön, OUTPUT);
+  pinMode(buzzerPin, OUTPUT);
 
   //ser till att sensorn är upe
-  if (!sgp.begin()){
-    
-    while (!sgp.begin()){
+  if (!sgp.begin()) {
+
+    while (!sgp.begin()) {
       Serial.println("VOC senor not found ");
       delay(500);
     }
-  }
-  else if (!aht.begin() ){
-    
-    while (!aht.begin()){
+  } else if (!aht.begin()) {
+
+    while (!aht.begin()) {
       Serial.println("luft sensor not find");
       delay(500);
     }
-    
   }
-
-
-
-
 }
 
 void loop() {
   unsigned long Tid = millis();
 
-  if(nästa100ms < Tid){
-    nästa100ms = Tid+100;
+  if (nästa100ms < Tid) {
+    nästa100ms = Tid + 100;
     var100ms();
-
-
   }
-  if(nästa1s < Tid){
-    nästa1s = Tid+1000;
+  if (nästa1s < Tid) {
+    nästa1s = Tid + 1000;
     var1s();
-
   }
-  if(nästa10s < Tid){
-    nästa10s = Tid+10000;
+  if (nästa10s < Tid) {
+    nästa10s = Tid + 10000;
     var10s();
-
-
   }
-      
-   delay(10);     
+
+  delay(10);
 }
-        
-void var100ms(){
-  if(digitalRead(buttonPin) == 0){
-   alarmÄrPå = false;
-  }
 
-
+void var100ms() {
+  if (digitalRead(buttonPin) == 0) {
+    alarmÄrPå = false;
   }
-  void var1s(){
-    setBuzzer();
-    if(alarmÄrPå){
-     buzzerLow = !buzzerLow;
-   } 
+}
+void var1s() {
+  setBuzzer();
+  if (alarmÄrPå) {
+    buzzerLow = !buzzerLow;
   }
-
-void var10s(){
+  Serial.print("--");
+  Serial.println(sgp.TVOC);
   
+}
+
+void var10s() {
+
   //sgp30 cod direkt från exemplet
   counterSGP30++;
   if (counterSGP30 == 30) {
     counterSGP30 = 0;
 
     uint16_t TVOC_base, eCO2_base;
-    if (! sgp.getIAQBaseline(&eCO2_base, &TVOC_base)) {
+    if (!sgp.getIAQBaseline(&eCO2_base, &TVOC_base)) {
       Serial.println("Failed to get baseline readings");
       return;
     }
-    Serial.print("****Baseline values: eCO2: 0x"); Serial.print(eCO2_base, HEX);
-    Serial.print(" & TVOC: 0x"); Serial.println(TVOC_base, HEX);
+    Serial.print("****Baseline values: eCO2: 0x");
+    Serial.print(eCO2_base, HEX);
+    Serial.print(" & TVOC: 0x");
+    Serial.println(TVOC_base, HEX);
   }
   //settre värden
   TvM = sgp.TVOC;
@@ -158,70 +151,60 @@ void var10s(){
   aht.getEvent(&humidity, &temp);
 
 
-if(Co2>maxCo2 || TvM > maxTvM){
-  faraNivå = 2;
-  alarmÄrPå = true;
-}
-else if (Co2>axeptabelCo2 || TvM > axeptabelTvM){
-  faraNivå = 1;
-  alarmÄrPå = false;
-}
-else{
-  //faraNivå = 0;
-  alarmÄrPå = false;
-}
-faraNivå =  faraNivå +1;
-faraNivå = faraNivå % 3;
-alarmÄrPå = true;
-
-Serial.println(faraNivå);
-
-
-  switch (faraNivå) {//detta är för att välja rät led
-
-      case 0:
-
-        digitalWrite(ledRöd, 0);
-        digitalWrite(ledGul, 0);
-        digitalWrite(ledGrön, 1);
-
-        break;
-      case 1:
-
-        digitalWrite(ledRöd, 0);
-        digitalWrite(ledGul, 1);
-        digitalWrite(ledGrön, 0);
-
-        break;
-      case 2:
-      digitalWrite(ledRöd, 1);
-        digitalWrite(ledGul, 0);
-        digitalWrite(ledGrön, 0);
-
-
-
-
-
-      break;
-
-      default:
-
-        // statements
-
-        break;
-
+  if (Co2 > maxCo2 || TvM > maxTvM) {
+    faraNivå = 2;
+    alarmÄrPå = true;
+  } else if (Co2 > axeptabelCo2 || TvM > axeptabelTvM) {
+    faraNivå = 1;
+    alarmÄrPå = false;
+  } else {
+    faraNivå = 0;
+    alarmÄrPå = false;
   }
 
 
+
+  Serial.println(faraNivå);
+
+
+  switch (faraNivå) {  //detta är för att välja rät led
+
+    case 0:
+
+      digitalWrite(ledRöd, 0);
+      digitalWrite(ledGul, 0);
+      digitalWrite(ledGrön, 1);
+
+      break;
+    case 1:
+
+      digitalWrite(ledRöd, 0);
+      digitalWrite(ledGul, 1);
+      digitalWrite(ledGrön, 0);
+
+      break;
+    case 2:
+      digitalWrite(ledRöd, 1);
+      digitalWrite(ledGul, 0);
+      digitalWrite(ledGrön, 0);
+      break;
+
+    default:
+
+      // statements
+
+      break;
+  }
 }
 
-void setBuzzer(){
-  if(faraNivå == 2 && alarmÄrPå ){
-    if(buzzerLow){
+void setBuzzer() {
+  if (faraNivå == 2 && alarmÄrPå) {
+    if (buzzerLow) {
       analogWrite(buzzerPin, 127);
-    }
-    else{
+    } else {
       analogWrite(buzzerPin, 254);
     }
+  } else {
+    analogWrite(buzzerPin, 0);
   }
 }
