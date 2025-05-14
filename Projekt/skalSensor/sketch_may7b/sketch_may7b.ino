@@ -1,3 +1,8 @@
+//setp för led panel
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include "Adafruit_LEDBackpack.h"
+Adafruit_AlphaNum4 alpha4 = Adafruit_AlphaNum4();
 //seter up voc sensern
 #include <Wire.h>
 #include "Adafruit_SGP30.h"
@@ -68,6 +73,14 @@ bool buzzerLow = false;
 void setup() {
 
   Serial.begin(9600);
+
+  alpha4.begin(0x70);
+  alpha4.writeDigitAscii(0, "T");
+  alpha4.writeDigitAscii(1, "E");
+  alpha4.writeDigitAscii(2, "S");
+  alpha4.writeDigitAscii(3, "T");
+  alpha4.writeDisplay();
+
   // put your setup code here, to run once:
   pinMode(buttonPin, INPUT_PULLUP);
   pinMode(ledRöd, OUTPUT);
