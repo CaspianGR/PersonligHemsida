@@ -75,10 +75,10 @@ void setup() {
   Serial.begin(9600);
 
   alpha4.begin(0x70);
-  alpha4.writeDigitAscii(0, "T");
-  alpha4.writeDigitAscii(1, "E");
-  alpha4.writeDigitAscii(2, "S");
-  alpha4.writeDigitAscii(3, "T");
+  alpha4.writeDigitAscii(0, 'T');
+  alpha4.writeDigitAscii(1, 'E');
+  alpha4.writeDigitAscii(2, 'S');
+  alpha4.writeDigitAscii(3, 'T');
   alpha4.writeDisplay();
 
   // put your setup code here, to run once:
@@ -167,10 +167,25 @@ void var10s() {
   if (Co2 > maxCo2 || TvM > maxTvM) {
     faraNivå = 2;
     alarmÄrPå = true;
+    alpha4.writeDigitAscii(0, 'R');
+  alpha4.writeDigitAscii(1, 'U');
+  alpha4.writeDigitAscii(2, 'N');
+  alpha4.writeDigitAscii(3, '!');
+  alpha4.writeDisplay();
   } else if (Co2 > axeptabelCo2 || TvM > axeptabelTvM) {
+    alpha4.writeDigitAscii(0, 'P');
+  alpha4.writeDigitAscii(1, 'R');
+  alpha4.writeDigitAscii(2, 'U');
+  alpha4.writeDigitAscii(3, 'B');
+  alpha4.writeDisplay();
     faraNivå = 1;
     alarmÄrPå = false;
   } else {
+    alpha4.writeDigitAscii(0, 'F');
+  alpha4.writeDigitAscii(1, 'I');
+  alpha4.writeDigitAscii(2, 'N');
+  alpha4.writeDigitAscii(3, '');
+  alpha4.writeDisplay();
     faraNivå = 0;
     alarmÄrPå = false;
   }
