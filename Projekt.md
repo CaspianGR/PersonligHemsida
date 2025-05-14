@@ -21,3 +21,4 @@
 | [Linux](https://caspian.rosengren.nu/Projekt/Linux.html)                           | A,if     |
 | [Mincraft](https://caspian.rosengren.nu/Mincraft.html)                             | A        |
 | [skolSensor](https://caspian.rosengren.nu/Projekt/skalSensor.html)                 | A        |
+| [Firn](https://caspian.rosengren.nu/Projekt/Firn.html)                             | A        |
