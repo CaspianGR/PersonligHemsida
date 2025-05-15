@@ -44,6 +44,13 @@
 - (gP2) -> har påverkatt en dell
 - (gP3) -> har påverkatt litte
 
+## Böker jag har läst med resention
+
+
+| Tittel                                                     | Tagar |
+| ------------------------------------------------------------ | ------- |
+| [Frieren](https://caspian.rosengren.nu/Books/frieren.html) | eS,cM |
+
 ## Lista med böker har läst men saknar resention
 
 
@@ -106,4 +113,3 @@
 | [Miss Peregrines hem för besynnerliga barn]()   | it            |
 | [Guldkompassen]()                                | it            |
 | [Hur du stjäl en drakes svärd]()               | S,it          |
-| [Frieren]()                                      | eS,cM         |
