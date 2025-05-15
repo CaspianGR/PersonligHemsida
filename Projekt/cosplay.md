@@ -3,5 +3,5 @@
 
 | Designs                                                               |
 | ----------------------------------------------------------------------- |
-| [Firn](https://caspian.rosengren.nu/Projekt/cosplay/firnCosplay.html) |
+| [Firn](https://caspian.rosengren.nu/cosplay/firnCosplay.html) |
 |                                                                       |
