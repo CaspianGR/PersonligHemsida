@@ -52,7 +52,7 @@ Nedre streket kommer jag sy på
 
 ## Tights
 
-[Köpta](https://www.lager157.com/sv-se/article/epic-tights-seamless-rib?attr1_id=65) efter rekommendation. 
+[Köpta](https://www.lager157.com/sv-se/article/epic-tights-seamless-rib?attr1_id=65) efter rekommendation.
 
 ## Gulla stikade stomper
 
@@ -83,6 +83,9 @@ Läder?
 ## Gevär
 
 Skall vara 2d med leds integrat för att simulera animationen
+
+
+![](assets/20250515_193447_eaoe.png)
 
 ![](assets/20250514_222333_image.png)
 
