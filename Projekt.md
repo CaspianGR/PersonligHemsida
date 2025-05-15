@@ -21,4 +21,4 @@
 | [Linux](https://caspian.rosengren.nu/Projekt/Linux.html)                           | A,if     |
 | [Mincraft](https://caspian.rosengren.nu/Mincraft.html)                             | A        |
 | [skolSensor](https://caspian.rosengren.nu/Projekt/skalSensor.html)                 | A        |
-| [Firn Cosplay](https://caspian.rosengren.nu/Projekt/firnCosplayFir.html)           | A        |
+| [Cosplay](https://caspian.rosengren.nu/Projekt/cosplay.html)                       | A        |
