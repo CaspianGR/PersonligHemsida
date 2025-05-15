@@ -8,8 +8,8 @@ Frieren är en veldigt intresant serie som förjer Frieren en elf när hon utfor
 
 Rosention skaknas för visa eftresom att jag inte har orkat att gå tillbara och endart dem
 
-* [Bock 11](https://)
-* [Bock 12](https://)
+* [Bock 11](https://caspian.rosengren.nu/Books/frieren.html#11)
+* [Bock 12](https://caspian.rosengren.nu/Books/frieren.html#12)
 
 ---
 
