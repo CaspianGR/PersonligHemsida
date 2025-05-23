@@ -31,7 +31,7 @@ Baserad på en Mingda Glitar 6c
 
 ### X Y axel ram
 
-xy Axlen är en modefierad [Monolith Gantry](https://github.com/CloakedWayne/Monolith_Gantry_V2-VThttps:/) där jag har anpassat dimensionerna så att de får plats i ramen och jag har ersatt 3030 aluminium extrusion med 30x30 stålrör och 30x20 stålrör för Y-axeln eftersom den är mindre. De stålplattor som kommer att krävas för Monolith Gantry kommer att skäras ut av något lokalt företag, stålrören kommer att köpas lokalt och hålen kommer att borras på ETF, och alla komponenter mådellar som behöves till Monolith Gantry kommer köpas från [3dkatten](https://www.3dkatten.se/ "https://www.3dkatten.se")
+xy Axlen är en modefierad [Monolith Gantry](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT) där jag har anpassat dimensionerna så att de får plats i ramen och jag har ersatt 3030 aluminium extrusion med 30x30 stålrör och 30x20 stålrör för Y-axeln eftersom den är mindre. De stålplattor som kommer att krävas för Monolith Gantry kommer att skäras ut av något lokalt företag, stålrören kommer att köpas lokalt och hålen kommer att borras på ETF, och alla komponenter mådellar som behöves till Monolith Gantry kommer köpas från [3dkatten](https://www.3dkatten.se/ "https://www.3dkatten.se")
 Kommmer använda 9mm gt3 belten eftersom att dem är styvare 
 
 ---
