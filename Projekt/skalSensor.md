@@ -35,6 +35,8 @@ Läggan
 Om du vill ha ut rådatan från sensor och vilket stadie den är i så kan du kopla in enheten i en dator och läsa av serial data med en bitrate av 9600.
 
 
+Här har vi dokumenten som vi lämnade in [texten](https://caspian.rosengren.nu/blog/21-25/digital_projekt-2.pdf) och [själv reflektioner](https://caspian.rosengren.nu/blog/21-25/självAnalysAvprojektet.pdf)
+
 # Kåd
 
 [se bifogad fill](https://caspian.rosengren.nu/Projekt/skalSensor/sketch_may7b/sketch_may7b.ino)
