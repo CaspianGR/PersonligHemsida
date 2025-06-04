@@ -2,6 +2,9 @@
 
 ## Referens billder
 
+
+någons annans design https://anst.artstation.com/projects/L2Jm2l?album_id=690251
+
 referen 3d model https://sketchfab.com/3d-models/2b-f0d3d14a99eb40fcb4c71ba82ce87a95
 
 ![](assets/20250604_183912_2b__cosplay_pattern_tutorial___nier_automata_by_patterncos_dccniyi-414w-2xlov.jpg)
