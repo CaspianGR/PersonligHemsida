@@ -3,7 +3,7 @@
 ## Referens billder
 
 
-någons annans design https://anst.artstation.com/projects/L2Jm2l?album_id=690251
+någons annans design https://anst.artstation.com/projects/L2Jm2l?album_id=6902512
 
 referen 3d model https://sketchfab.com/3d-models/2b-f0d3d14a99eb40fcb4c71ba82ce87a95
 
