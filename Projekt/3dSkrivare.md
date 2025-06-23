@@ -22,7 +22,6 @@ Mållet med den här skrivaren är att bygga en relativt snabb 3D-skrivare som u
 - [BondTech](https://www.bondtech.se/)
 - [Lukes Lab](https://www.lukeslabonline.com/)
 
-
 ## Komponenter
 
 ### Kropen
@@ -32,7 +31,7 @@ Baserad på en Mingda Glitar 6c
 ### X Y axel ram
 
 xy Axlen är en modefierad [Monolith Gantry](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT) där jag har anpassat dimensionerna så att de får plats i ramen och jag har ersatt 3030 aluminium extrusion med 30x30 stålrör och 30x20 stålrör för Y-axeln eftersom den är mindre. De stålplattor som kommer att krävas för Monolith Gantry kommer att skäras ut av något lokalt företag, stålrören kommer att köpas lokalt och hålen kommer att borras på ETF, och alla komponenter mådellar som behöves till Monolith Gantry kommer köpas från [3dkatten](https://www.3dkatten.se/ "https://www.3dkatten.se")
-Kommmer använda 9mm gt3 belten eftersom att dem är styvare 
+Kommmer använda 9mm gt3 belten eftersom att dem är styvare
 
 ---
 
@@ -40,7 +39,23 @@ Kommmer använda 9mm gt3 belten eftersom att dem är styvare
 
 Tills vidare kommer jag behålla den ursprungliga Z-axeln, men jag kommer nog uppgradera till en trepunkts dynamisk platta i framtiden.
 
+## Design
+
+Har nu gjord en första design runda med bellows
+
+![](assets/20250623_203657_image.png)
+
+
+![](assets/20250623_204100_image.png)
+
+
+![](assets/20250623_204252_image.png)
+
+Detta systemet använder bellows för att skyda electroniken från den varma kammaren. den har 4 bellows, två för y(blå) och x(grön)
+
 ---
+
+
 
 ### Extruder
 
