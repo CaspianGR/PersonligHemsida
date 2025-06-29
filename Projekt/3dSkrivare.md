@@ -21,6 +21,7 @@ Mållet med den här skrivaren är att bygga en relativt snabb 3D-skrivare som u
 - [3dkatten](https://www.3dkatten.se/ "https://www.3dkatten.se")
 - [BondTech](https://www.bondtech.se/)
 - [Lukes Lab](https://www.lukeslabonline.com/)
+- [Polsk sida en person rekomenderade för att köpa skruvar](https://www.ebmia.pl)
 
 ## Komponenter
 
@@ -79,7 +80,7 @@ Det fins 3 alternativ hur jag vill göra med dellen som mattar plast
 
 ### Vald extruder
 
-LGX eller LGX pro, Chube air med vatenkylnign, och en egen designad fäste 
+LGX eller LGX pro, Chube air med vatenkylnign, och en egen designad fäste
 
 ![](assets/20250629_224602_image.png)
 
@@ -90,7 +91,6 @@ gjord av aluminion i två dellar
 ![](assets/20250629_224814_image.png)
 
 ---
-
 
 ### Electronik
 
