@@ -45,19 +45,21 @@ Har nu gjord en första design runda med bellows
 
 ![](assets/20250623_203657_image.png)
 
-
 ![](assets/20250623_204100_image.png)
-
-
-![](assets/20250623_204252_image.png)
 
 Detta systemet använder bellows för att skyda electroniken från den varma kammaren. den har 4 bellows, två för y(blå) och x(grön)
 
+![](assets/20250623_204252_image.png)
+
 ---
 
+Updatterad modellen av hållarna till bellowsen så att dem faktiskt kan poduseras
 
+![](assets/20250629_224303_image.png)
 
-### Extruder
+---
+
+### Extruder allternative
 
 Det fins 3 alternativ hur jag vill göra med dellen som mattar plast
 
@@ -75,7 +77,20 @@ Det fins 3 alternativ hur jag vill göra med dellen som mattar plast
    1. Största nackdelen är att den inte kommer att vara så stabil, och om vattenvarianten används så måste jag dra vattenkylning.
    2. Fördelarna är att den kommer att kunna smälta enorma mängder plast, och att den är vattenkyld så om jag ändå behöver dra vattenkylning så är den användbar.
 
+### Vald extruder
+
+LGX eller LGX pro, Chube air med vatenkylnign, och en egen designad fäste 
+
+![](assets/20250629_224602_image.png)
+
+#### Fäste
+
+gjord av aluminion i två dellar
+
+![](assets/20250629_224814_image.png)
+
 ---
+
 
 ### Electronik
 
