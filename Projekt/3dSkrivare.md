@@ -5,7 +5,7 @@
 Mållet med den här skrivaren är att bygga en relativt snabb 3D-skrivare som uppfyller följande mål:
 
 - 450 °C pipa
-- 90 °C kammare
+- 130 °C kammare
 - 100 °C platta
 - Få plats i ramen jag redan har
 - Möjlighet att vattenkyla stegmotorn och cold end om värmeskölden inte fungerar
@@ -56,7 +56,8 @@ Detta systemet använder bellows för att skyda electroniken från den varma kam
 
 Updatterad modellen av hållarna till bellowsen så att dem faktiskt kan poduseras
 
-![](assets/20250629_224303_image.png)
+
+![](assets/20250705_210536_Hella_dSkrivarev6Drawing1.png)
 
 ---
 
@@ -80,17 +81,19 @@ Det fins 3 alternativ hur jag vill göra med dellen som mattar plast
 
 ### Vald extruder
 
-LGX eller LGX pro, Chube air med vatenkylnign, och en egen designad fäste
+LGX Light eller LGX Light Pro, Chube air med vatenkylnign, och en egen designad fäste
 
-![](assets/20250629_224602_image.png)
 
-#### Fäste
+![](assets/20250705_211308_image.png)
+
+
+
+Fäste
 
 gjord av aluminion i två dellar
 
-![](assets/20250629_224814_image.png)
 
----
+![](assets/20250705_211346_image.png)
 
 ### Electronik
 
