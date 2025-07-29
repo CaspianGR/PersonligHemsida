@@ -22,6 +22,7 @@ Mållet med den här skrivaren är att bygga en relativt snabb 3D-skrivare som u
 - [BondTech](https://www.bondtech.se/)
 - [Lukes Lab](https://www.lukeslabonline.com/)
 - [Polsk sida en person rekomenderade för att köpa skruvar](https://www.ebmia.pl)
+- [Skener](bstautomation.com)
 
 ## Komponenter
 
@@ -56,7 +57,6 @@ Detta systemet använder bellows för att skyda electroniken från den varma kam
 
 Updatterad modellen av hållarna till bellowsen så att dem faktiskt kan poduseras
 
-
 ![](assets/20250705_210536_Hella_dSkrivarev6Drawing1.png)
 
 ---
@@ -83,15 +83,11 @@ Det fins 3 alternativ hur jag vill göra med dellen som mattar plast
 
 LGX Light eller LGX Light Pro, Chube air med vatenkylnign, och en egen designad fäste
 
-
 ![](assets/20250705_211308_image.png)
-
-
 
 Fäste
 
 gjord av aluminion i två dellar
-
 
 ![](assets/20250705_211346_image.png)
 
