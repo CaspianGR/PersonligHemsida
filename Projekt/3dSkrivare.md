@@ -5,15 +5,13 @@
 Mållet med den här skrivaren är att bygga en relativt snabb 3D-skrivare som uppfyller följande mål:
 
 - 450 °C pipa
-- 130 °C kammare
-- 100 °C platta
-- Få plats i ramen jag redan har
-- Möjlighet att vattenkyla stegmotorn och cold end om värmeskölden inte fungerar
-- Integrerad och automatisk brandsläckare
-- Stor skärm för operatören
-- Integrerat filtreringssystem till utsug och stöd för att kunna ersätta all luft i kammaren när utskriften är färdig
-- Tillräckligt bra isolering så att utsidan inte är varm
-- Ordentligt och överspecat elsystem
+- 100 °C kammare
+- 250 °C KylarFläkt
+- print yta x:100, y:200, z:100
+- RepRap
+- Vattenkyld
+- Hela ramen ut av 8mm aluminiom plater
+- \>= 9mm belts
 
 ## Botiker
 
@@ -26,14 +24,11 @@ Mållet med den här skrivaren är att bygga en relativt snabb 3D-skrivare som u
 
 ## Komponenter
 
-### Kropen
+Kartision som en Endre 5 men med en mycket störe motor
 
-Baserad på en Mingda Glitar 6c
+![](assets/20250818_100048_image.png)
 
-### X Y axel ram
-
-xy Axlen är en modefierad [Monolith Gantry](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT) där jag har anpassat dimensionerna så att de får plats i ramen och jag har ersatt 3030 aluminium extrusion med 30x30 stålrör och 30x20 stålrör för Y-axeln eftersom den är mindre. De stålplattor som kommer att krävas för Monolith Gantry kommer att skäras ut av något lokalt företag, stålrören kommer att köpas lokalt och hålen kommer att borras på ETF, och alla komponenter mådellar som behöves till Monolith Gantry kommer köpas från [3dkatten](https://www.3dkatten.se/ "https://www.3dkatten.se")
-Kommmer använda 9mm gt3 belten eftersom att dem är styvare
+styv och fin
 
 ---
 
@@ -45,10 +40,6 @@ Tills vidare kommer jag behålla den ursprungliga Z-axeln, men jag kommer nog up
 
 Har nu gjord en första design runda med bellows
 
-![](assets/20250623_203657_image.png)
-
-![](assets/20250623_204100_image.png)
-
 Detta systemet använder bellows för att skyda electroniken från den varma kammaren. den har 4 bellows, två för y(blå) och x(grön)
 
 ![](assets/20250623_204252_image.png)
@@ -57,29 +48,13 @@ Detta systemet använder bellows för att skyda electroniken från den varma kam
 
 Updatterad modellen av hållarna till bellowsen så att dem faktiskt kan poduseras
 
-![](assets/20250705_210536_Hella_dSkrivarev6Drawing1.png)
 
----
+### Extruder 
 
-### Extruder allternative
+[LGX Lite PRO eXtruderBondte](https://www.bondtech.se/product/lgx-lite-pro-extruder/) + [Chube Air](https://3do.dk/en/complete-hotend/2521-chube-air.html) och [Chube Air Water Block](https://3do.dk/en/spare-parts/2519-chube-air-water-block.html)
 
-Det fins 3 alternativ hur jag vill göra med dellen som mattar plast
 
-1. [BondTech idax](https://www.bondtech.se/indx-by-bondtech/)(har inte sleps när jag skriver detta)
-   1. Problemet med detta alternativ är att det inte når den temperatur jag vill ha.
-   2. Ett annat är att det inte kommer att passa med systemet jag har som värmesköld.
-   3. Fördelen är att det är en tool changer.
-2. [LGX PRO](https://www.bondtech.se/product/lgx-pro-large-gears-extruder/) + [LGX ACE Magnum](https://www.bondtech.se/product/lgx-ace-magnum-plus-hotend/)
-   1. Problemet med det här valet är att det kommer att vara lagom dyrt och väga ganska mycket.
-   2. Fördelen är att den är en hållfast design som kommer att hålla och låta mig printa ganska snabbt eller verkligen smälta plasten.
-3. [Calamity Toolhead](https://www.lukeslabonline.com/products/calamity-toolhead-electronics-fans?pr_prod_strat=e5_desc&pr_rec_id=733d66568&pr_rec_pid=9254720569645&pr_ref_pid=9738161357101&pr_seq=uniform)(eller en annan all metal design som använder en [Chube conduction](https://www.lukeslabonline.com/products/chube-conduction) eller [Chube Air](https://www.lukeslabonline.com/products/chube-air) )
-   1. Största nackdelen är att den väger ett halvt ton och kommer att kosta en förmögenhet.
-   2. Fördelarna är att den kommer att kunna smälta enorma mängder plast och snabbt kyla ner dem.
-4. [Chube conduction](https://www.lukeslabonline.com/products/chube-conductionhttps:/) + [Chube Conduction  LGX Water Block](https://www.lukeslabonline.com/products/chube-conduction-water-block) eller [LGX Champ Adapter](https://www.lukeslabonline.com/products/chube-lgx-champ?pr_prod_strat=e5_desc&pr_rec_id=590d7d986&pr_rec_pid=9569019363629&pr_ref_pid=9675655446829&pr_seq=uniform) + [LGX PRO](https://www.bondtech.se/product/lgx-pro-large-gears-extruder/)
-   1. Största nackdelen är att den inte kommer att vara så stabil, och om vattenvarianten används så måste jag dra vattenkylning.
-   2. Fördelarna är att den kommer att kunna smälta enorma mängder plast, och att den är vattenkyld så om jag ändå behöver dra vattenkylning så är den användbar.
-
-### Vald extruder
+### Vald extruder(gammal design)
 
 LGX Light eller LGX Light Pro, Chube air med vatenkylnign, och en egen designad fäste
 
