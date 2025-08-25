@@ -10,17 +10,20 @@ Hur bilderna ser ut
 
 ### Hur men ser ur
 
-
 ![](assets/20250825_093504_PXL_20250726_165628782.MP.jpg)
 
-^ Pasformen är inte den enklaste att få korekt 
+^ Pasformen är inte den enklaste att få korekt
 
 ![](assets/20250825_093504_PXL_20250802_112016985.jpg)
 
-^ Färdig, passar axeptabelt 
+^ Färdig, passar axeptabelt
+
+Ben är baglinded vilket jorde konstruktionen kanser men den ser fantastisk ut
 
 
 
+
+# Jakan
 
 ![](cosplay/assets/20250604_190848_Lager2_5Front.jpg)
 
