@@ -30,6 +30,15 @@ Kartision som en Endre 5 men med en mycket störe motor
 
 styv och fin
 
+
+![](assets/20250825_094645_image.png)
+
+
+![](assets/20250825_094744_image.png)
+
+
+![](assets/20250825_094811_image.png)
+
 ---
 
 ### Z axel
@@ -48,25 +57,21 @@ Detta systemet använder bellows för att skyda electroniken från den varma kam
 
 Updatterad modellen av hållarna till bellowsen så att dem faktiskt kan poduseras
 
-
-### Extruder 
+### Extruder
 
 [LGX Lite PRO eXtruderBondte](https://www.bondtech.se/product/lgx-lite-pro-extruder/) + [Chube Air](https://3do.dk/en/complete-hotend/2521-chube-air.html) och [Chube Air Water Block](https://3do.dk/en/spare-parts/2519-chube-air-water-block.html)
-
 
 ### Vald extruder(gammal design)
 
 LGX Light eller LGX Light Pro, Chube air med vatenkylnign, och en egen designad fäste
 
-![](assets/20250705_211308_image.png)
 
-Fäste
 
-gjord av aluminion i två dellar
+![](assets/20250825_095106_image.png)
 
-![](assets/20250705_211346_image.png)
+^ Har inte lagt till festena för bellowsen 
 
-### Electronik
+# Electronik
 
 - xy axlen kommer använda [LDO-42STH48-2504AHS8 S55](https://3dkatten.se/products/ldo-42sth48-2504ahs8-s55-1) stegmotorer tills vidar
 - [Duet 3d](https://www.duet3d.com/) kommer användas för all kontrol electronik
