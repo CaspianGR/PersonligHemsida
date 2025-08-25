@@ -30,12 +30,9 @@ Kartision som en Endre 5 men med en mycket störe motor
 
 styv och fin
 
-
 ![](assets/20250825_094645_image.png)
 
-
 ![](assets/20250825_094744_image.png)
-
 
 ![](assets/20250825_094811_image.png)
 
@@ -65,11 +62,16 @@ Updatterad modellen av hållarna till bellowsen så att dem faktiskt kan poduser
 
 LGX Light eller LGX Light Pro, Chube air med vatenkylnign, och en egen designad fäste
 
-
-
 ![](assets/20250825_095106_image.png)
 
-^ Har inte lagt till festena för bellowsen 
+^ Har inte lagt till festena för bellowsen
+
+### VarmLuft system
+
+designad av **dlcklazer** 
+
+![](assets/20250825_132856_20240329_202754.webp)
+
 
 # Electronik
 
