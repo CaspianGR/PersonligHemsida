@@ -14,6 +14,11 @@ Beroende på modelen så we baksidan antingen öpen eller så är der bara en tr
 
 Kjolen er förmodligen en vanlig kjol
 
+### andra kola designds
+
+[KoolKläning](https://www.goodsmile.com/en/product/12825/TENITOL+NEO+TOKYO+Series+IDOL)
+
+
 ## Cosplay
 
 
