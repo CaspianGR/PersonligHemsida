@@ -1,5 +1,12 @@
 # Kläder
 
+## Saker jag har syt
+
+
+| Designs                                                                |
+| ------------------------------------------------------------------------ |
+| [CoolKläning](https://caspian.rosengren.nu/Kläder/CoolKläning.html) |
+
 ## Coola saker jag inte har sytcol
 
 ### Hatsune Miku från Tell Your World Ver
@@ -14,9 +21,15 @@ Beroende på modelen så we baksidan antingen öpen eller så är der bara en tr
 
 Kjolen er förmodligen en vanlig kjol
 
-### andra kola designds
+### Andra kola designds
 
 [KoolKläning](https://www.goodsmile.com/en/product/12825/TENITOL+NEO+TOKYO+Series+IDOL)
+
+
+### [Svart Kläning](https://caspian.rosengren.nu/Kläder/SvartKlaning.html)
+
+![](assets/20250912_184657_GqhH62mXAAAoZKS-595209248.jpg)
+
 
 
 ## Cosplay
@@ -26,10 +39,3 @@ Kjolen er förmodligen en vanlig kjol
 | ----------------------------------------------------------------------- |
 | [Firn](https://caspian.rosengren.nu/Kläder/cosplay/firnCosplay.html) |
 | [2B](https://caspian.rosengren.nu/Kläder/cosplay/2B-Cosplay.html)    |
-
-## Saker jag har syt
-
-
-| Designs                                                                |
-| ------------------------------------------------------------------------ |
-| [CoolKläning](https://caspian.rosengren.nu/Kläder/CoolKläning.html) |

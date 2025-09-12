@@ -42,6 +42,14 @@ styv och fin
 
 Tills vidare kommer jag behålla den ursprungliga Z-axeln, men jag kommer nog uppgradera till en trepunkts dynamisk platta i framtiden.
 
+
+### Refferens design
+
+Ptfe-impregnated fiberglass cloth
+
+
+![](assets/20250912_184107_20250312_150808.webp)
+
 ## Design
 
 Har nu gjord en första design runda med bellows
@@ -68,9 +76,36 @@ LGX Light eller LGX Light Pro, Chube air med vatenkylnign, och en egen designad 
 
 ### VarmLuft system
 
-designad av **dlcklazer** 
+designad av **dlcklazer**
 
 ![](assets/20250825_132856_20240329_202754.webp)
+
+# Isulation
+
+### Rekomenderad design
+
+Insulation:
+-1" ceramic fiber
+-ptfe fiberglass sheet
+-1" PIR
+-1/2" PIR
+-1" PIR
+
+
+![](assets/20250912_184350_20250314_154247.webp)
+
+^-1" ceramic fiber
+
+
+![](assets/20250912_184406_20250315_143248.webp)
+
+^-ptfe fiberglass sheet
+
+![](assets/20250912_184424_20250315_144058.webp)
+
+^-1" PIR
+-1/2" PIR
+-1" PIR
 
 
 # Electronik
