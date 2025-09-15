@@ -2,7 +2,7 @@
 
 # Straples kläning
 
-Hur bilderna ser ut
+### Refferens
 
 ![](cosplay/assets/20250604_190829_Lager1Front.jpg)
 
@@ -20,16 +20,28 @@ Hur bilderna ser ut
 
 Ben är baglinded vilket jorde konstruktionen kanser men den ser fantastisk ut
 
-
-
-
 # Jakan
+
+### Refferens
 
 ![](cosplay/assets/20250604_190848_Lager2_5Front.jpg)
 
 ![](cosplay/assets/20250604_190848_Lager2Front.jpg)
 
 ![](cosplay/assets/20250604_190848_Lager2Back.jpg)
+
+### Med design
+
+
+![](assets/20250912_192529_JakaKl_nging.png)
+
+![](assets/20250912_192529_PXL_20250912_171202564.jpg)
+
+![](assets/20250912_192529_PXL_20250912_171156327.MP.jpg)
+
+
+
+# Armar
 
 ![](cosplay/assets/20250604_190917_Lager3Front.jpg)
 
