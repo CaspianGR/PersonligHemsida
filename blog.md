@@ -3,7 +3,7 @@
 
 | Bloger                                                 |
 | -------------------------------------------------------- |
-| [36-25](https://caspian.rosengren.nu/blog/36-25.html)  |
+| [37-25](https://caspian.rosengren.nu/blog/37-25.html)  |
 | [31-25](https://caspian.rosengren.nu/blog/31-25.html)  |
 | [26-25](https://caspian.rosengren.nu/blog/26-25.html)  |
 | [24-25](https://caspian.rosengren.nu/blog/24-25.html)  |
