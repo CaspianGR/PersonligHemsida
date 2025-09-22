@@ -20,7 +20,12 @@ Design fillen är [här](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAg
 
 ## Konstruktion
 
-Första designen var en gjord på koplingskort, Här är en [film](https://caspian.rosengren.nu/Project/SkolSynt/FörstaFunkionelaDesignen.mp4) när jag fick den att generera en signal, här är [film](https://caspian.rosengren.nu/Project/SkolSynt/FungerandeHögtalare.mp4) när ja la till en spenings följare så att den kan driva en högtallare, och sedan så är här en [film](https://caspian.rosengren.nu/Project/SkolSynt/FuntionelKeybord.mp4) när tagenterna fungerar, allt deta var gjort på en fredag då jag inte hade någonting bätre att göra.
+Första designen var en gjord på koplingskort, Här är en [film](https://caspian.rosengren.nu/Projekt/SkolSynt/FörstaFunkionelaDesignen.mp4) när jag fick den att generera en signal, här är [film](https://caspian.rosengren.nu/Projekt/SkolSynt/FungerandeHögtalare.mp4) när ja la till en spenings följare så att den kan driva en högtallare, och sedan så är här en [film](https://caspian.rosengren.nu/Projekt/SkolSynt/FuntionelKeybord.mp4) när tagenterna fungerar, allt deta var gjort på en fredag då jag inte hade någonting bätre att göra.
+
+
+
+
+
 
 Här är den slutgiltiga designen fast ihoplädad, obsarvera att jag använder en tl074 istälet fär två tl071 eftresom att jag trode jag behövde mer en två
 
