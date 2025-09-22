@@ -32,6 +32,8 @@ Tog ett tag att få alla signaller att komma fram och ted tog en evighet att hit
 
 ## Lite mätdatta
 
+(den gula signalen är inverterad på den rena sida )
 ![](SkolSynt/allaSignaler.jpg)
+
 
 Den här grafen vissar all datta, och du kan se att signallen blir byket sämre när högtalaren är inkoplad, desutom så endras tonen beroend på frekvänsen

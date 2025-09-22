@@ -25,4 +25,4 @@
 | [Cosplay](https://caspian.rosengren.nu/Kl%C3%A4der.html#cosplay)                              | A        |
 | [Kläder](https://caspian.rosengren.nu/Kläder.html)                                          | A        |
 | [Citat](https://caspian.rosengren.nu/citat.html)                                              |          |
-| [Skol Synt projekt](https://caspian.rosengren.nu/SkolSynt.html)                               | S        |
+| [Skol Synt projekt](https://caspian.rosengren.nu/Projekt/SkolSynt.html)                       | S        |
