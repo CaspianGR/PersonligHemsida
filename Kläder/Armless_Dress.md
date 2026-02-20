@@ -8,7 +8,7 @@
 | Konstruction |
 | Resultat     |
 
-# Design
+## Design
 
 Designen var köt från den har [videon](https://www.youtube.com/watch?v=GD1ltfBQl4o). Den kostade mig 70kr och för de priset var den värt de. Instruktionerna är fantastiska och den passar fantastiskt.
 
@@ -16,7 +16,7 @@ Designen var köt från den har [videon](https://www.youtube.com/watch?v=GD1ltfB
 
 Jag modefierade kjolen så att den blev längre och jag la till två sido ficker men annar använde jag orginal designen
 
-# Tygg
+## Tygg
 
 Både prototypen och den färdiga kläningen avnänder intärnt systetiskst foder, de är bekvämt mot huten och gör det enkelt att ta på sig den. Prototypen använde ett billigt pototyp tyg medans den fördiga designen anänder ett ganska kjokt tyg
 
@@ -34,7 +34,7 @@ Foder
 
 ^Prototyp tyg, väldigt enkelt att klippa och arbeta med
 
-# Konstruction
+## Konstruction
 
 Alla pappar klipten ut och klistrades saman, lyckades övertyga en kommpis at hjälpa till. En sådan här markerings pena är fantastisk för att markera mer flexibelt tyg
 
@@ -64,7 +64,6 @@ Den passar
 
 Prototypen blev litte tight men den ändå lyckad
 den färdiga designer blev lyckad
-
 
 ![](assets/20260220_152803_PXL_20260218_194733434.jpg)
 
