@@ -1,11 +1,6 @@
 # Böker
 
-## Saker jag har indentifieratt att jag gillar i en bok
-
-- "realistisk" scifi
-- Dystopier
-- Böker med "hard" magic
--
+Detta är en lista men böker jag har läst, de flästa här bara en inläg men utan någon vidare information om vad jag tyckte om bocken 
 
 ## Taggar
 
