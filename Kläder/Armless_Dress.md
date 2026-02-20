@@ -1,12 +1,12 @@
 # Kläning
 
 
-| Inehåll     |
-| -------------- |
-| Design       |
-| Tygg         |
-| Konstruction |
-| Resultat     |
+| Inehåll                                                                                 |
+| ------------------------------------------------------------------------------------------ |
+| [Design](https://caspian.rosengren.nu/Kl%C3%A4der/Armless_Dress.html#design)             |
+| [Tygg](https://caspian.rosengren.nu/Kl%C3%A4der/Armless_Dress.html#tygg)                 |
+| [Konstruction](https://caspian.rosengren.nu/Kl%C3%A4der/Armless_Dress.html#konstruction) |
+| [Resultat](https://caspian.rosengren.nu/Kl%C3%A4der/Armless_Dress.html#resultat)         |
 
 ## Design
 
@@ -56,7 +56,7 @@ Den passar
 
 ![](assets/20260220_152523_PXL_20260131_101217927.jpg)
 
-# Resultat
+## Resultat
 
 ![](assets/20260220_152620_PXL_20260125_084646370.jpg)
 
