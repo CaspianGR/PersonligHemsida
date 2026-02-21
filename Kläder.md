@@ -32,8 +32,17 @@ Kjolen er förmodligen en vanlig kjol
 
 ## Någoting annat
 
-
 ![](assets/20260221_092646_Screenshot_20260219-160705.webp)
+
+Kjolen är enkell, standard "Pleat". Integrera några ficker så att den går att använda, blixtlås på sidan. Måste hitta ett tyg som har stuktur nog att hålla väken.
+Tröjan blir lite intresant. Armarna är enkla, gör dem lite puffiga.
+
+
+![](assets/20260221_094609_Screenshot_20260221_094429.png)
+
+Frågan är om den markerade dellen är en separat tyg bit eller om krage monteras ovan på en tröja,
+måste även hitta ett set att få igenom mit huvod.
+Tyget får vara någont lite med mer flytande, kanske använder ett tyg under för lite mer stuktur 
 
 ## Cosplay
 
