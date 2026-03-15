@@ -1,4 +1,4 @@
-# Stratasys uPrint
+# [Stratasys uPrint](https://caspian.rosengren.nu/Projekt/Stratasys_uPrint.html#bilder)
 
 ## Bakgrund
 
@@ -36,7 +36,6 @@ Skrivaren behöver ett nyt bord eftersom att skrivaren är >40kg och två av hju
 I nuläget avände skrivaren två kaseter för plaste, desa tar bara stratasys inke standard rullar plas vilket gör det svärt att köpa in ny plast. Det fin plast för en standard rulle i kaset hålaren så vi kan designa nya kaseter. Jag gillar kaset konseptet eftersom att de tvingar operatören att hålla plaste tor hella tiden
 
 ## Bilder
-
 
 ![](assets/20260315_202820_3dmeetup2026-45.jpg)
 
