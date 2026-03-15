@@ -11,4 +11,4 @@
 | [Cosplay](https://caspian.rosengren.nu/Kl%C3%A4der.html#cosplay)                              | Aktiv     |
 | [Kläder](https://caspian.rosengren.nu/Kläder.html)                                          | Aktiv     |
 | [Skol Synt projekt](https://caspian.rosengren.nu/Projekt/SkolSynt.html)                       | Färdig   |
-| [Stratasys_uPrint](https://caspian.rosengren.nu/Projekt/Stratasys_uPrintSkolSyn.html)         | Aktiv     |
+| [Stratasys_uPrint](https://caspian.rosengren.nu/Projekt/Stratasys_uPrint.html)         | Aktiv     |
