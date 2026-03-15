@@ -8,6 +8,11 @@ fick in a Stratasys uPrint så blev jag väldigt intreserad att fixa den.
 
 ## Komponeter
 
+### Surivar yta
+
+203 x 152 x 152 mm 
+Den är pyteliten och skiver på engångs ABS platter. Detta kan läsas genom att lima fast an g10 plata ovan på ABS plattan
+
 ### Kammare
 
 Skrivarens kommare är rubost och väll isulerad.
