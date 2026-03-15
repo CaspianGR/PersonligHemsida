@@ -10,7 +10,7 @@ fick in a Stratasys uPrint så blev jag väldigt intreserad att fixa den.
 
 ### Kammare
 
-Skrivarens kommare är rubost och väll isulerad. 
+Skrivarens kommare är rubost och väll isulerad.
 
 Enligt folk på nätet sa ska man inte gå över 90c kammare på Stratasys uPrint.
 
@@ -34,3 +34,12 @@ Skrivaren behöver ett nyt bord eftersom att skrivaren är >40kg och två av hju
 ### Material förvaring
 
 I nuläget avände skrivaren två kaseter för plaste, desa tar bara stratasys inke standard rullar plas vilket gör det svärt att köpa in ny plast. Det fin plast för en standard rulle i kaset hålaren så vi kan designa nya kaseter. Jag gillar kaset konseptet eftersom att de tvingar operatören att hålla plaste tor hella tiden
+
+## Bilder
+
+
+![](assets/20260315_202820_3dmeetup2026-45.jpg)
+
+![](assets/20260315_202820_3dmeetup2026-48.webp)
+
+![](assets/20260315_202820_DSCF0726.webp)
