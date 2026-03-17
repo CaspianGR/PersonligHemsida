@@ -75,6 +75,8 @@ Vi har sika 30 rullar av statasys abs och suport material
 
 ![](assets/20260317_223657_PXL_20260317_163313320.MP.jpg)
 
+Men jag vill försöka att köra litte andra materal så som PETG, PCTG, PET, och PPA/PA problemet är att jag då behöver antigen modefiera mjukvaran för att få andra temperaturer eller desa plaser på ABS temperaturer, desutom så kommer desa materal i en cf/gf varianter men eftersom att jag inte vill förstöra komponenter som inte är gjorda för de så måste jag hitta varianter som inte inehåller de. Desutom så vet jag inte om skivarens kalibration här gord för andra plaster och jag vet inte hur suport materialet kommer att fungera.
+
 ## Bilder
 
 ![](assets/20260315_202820_3dmeetup2026-45.jpg)
