@@ -1,6 +1,6 @@
 rp
 
-* [Projekt](/projekt)
+* [Projekt](/projekt.html)
 *
 
 ![test](assets/20250505_143805_20220731_103702.jpg)
