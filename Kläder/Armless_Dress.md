@@ -3,10 +3,10 @@
 
 | Inehåll                                                                                 |
 | ------------------------------------------------------------------------------------------ |
-| [Design](https://caspian.rosengren.nu/Kl%C3%A4der/Armless_Dress.html#design)             |
-| [Tygg](https://caspian.rosengren.nu/Kl%C3%A4der/Armless_Dress.html#tygg)                 |
-| [Konstruction](https://caspian.rosengren.nu/Kl%C3%A4der/Armless_Dress.html#konstruction) |
-| [Resultat](https://caspian.rosengren.nu/Kl%C3%A4der/Armless_Dress.html#resultat)         |
+| [Design](https://caspian.rosengren.nu/gammal/Kl%C3%A4der/Armless_Dress.html#design)             |
+| [Tygg](https://caspian.rosengren.nu/gammal/Kl%C3%A4der/Armless_Dress.html#tygg)                 |
+| [Konstruction](https://caspian.rosengren.nu/gammal/Kl%C3%A4der/Armless_Dress.html#konstruction) |
+| [Resultat](https://caspian.rosengren.nu/gammal/Kl%C3%A4der/Armless_Dress.html#resultat)         |
 
 ## Design
 

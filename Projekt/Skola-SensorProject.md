@@ -2,7 +2,7 @@
 
 ## Förklaring
 
-I detta projekt skall jag programmera en RP2040 som skall mäta av en VOC- och luftfuktighetssensor och beroende på mätvärden så indikera på olika sätt, se produktspecifikationen för detaljer.i detta projekt skall jag programera en rp2040 som skall mätta av en VOC och luftfuktinghets sensor  och beroende på mätvärden så indekera på olika för användaren vad som händer set se produkt [spesifisonen för detaljer](https://caspian.rosengren.nu/Projekt/skalSensor/digitalProjekt-1.pdf)
+I detta projekt skall jag programmera en RP2040 som skall mäta av en VOC- och luftfuktighetssensor och beroende på mätvärden så indikera på olika sätt, se produktspecifikationen för detaljer.i detta projekt skall jag programera en rp2040 som skall mätta av en VOC och luftfuktinghets sensor  och beroende på mätvärden så indekera på olika för användaren vad som händer set se produkt [spesifisonen för detaljer](https://caspian.rosengren.nu/gammal/Projekt/skalSensor/digitalProjekt-1.pdf)
 
 ![](assets/20250507_225051_PXL_20250507_202601098.jpg)
 
@@ -35,8 +35,8 @@ Läggan
 Om du vill ha ut rådatan från sensor och vilket stadie den är i så kan du kopla in enheten i en dator och läsa av serial data med en bitrate av 9600.
 
 
-Här har vi dokumenten som vi lämnade in [texten](https://caspian.rosengren.nu/blog/21-25/digital_projekt-2.pdf) och [själv reflektioner](https://caspian.rosengren.nu/blog/21-25/självAnalysAvprojektet.pdf)
+Här har vi dokumenten som vi lämnade in [texten](https://caspian.rosengren.nu/gammal/blog/21-25/digital_projekt-2.pdf) och [själv reflektioner](https://caspian.rosengren.nu/gammal/blog/21-25/självAnalysAvprojektet.pdf)
 
 # Kåd
 
-[se bifogad fill](https://caspian.rosengren.nu/Projekt/Skola-SensorProject/sketch_may7b/sketch_may7b.ino)
+[se bifogad fill](https://caspian.rosengren.nu/gammal/Projekt/Skola-SensorProject/sketch_may7b/sketch_may7b.ino)

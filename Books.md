@@ -44,7 +44,7 @@ Detta är en lista men böker jag har läst, de flästa här bara en inläg men 
 
 | Tittel                                                     | Tagar |
 | ------------------------------------------------------------ | ------- |
-| [Frieren](https://caspian.rosengren.nu/Books/frieren.html) | eS,cM |
+| [Frieren](https://caspian.rosengren.nu/gammal/Books/frieren.html) | eS,cM |
 
 ## Lista med böker har läst men saknar resention
 

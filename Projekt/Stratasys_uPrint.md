@@ -1,4 +1,4 @@
-# [Stratasys uPrint](https://caspian.rosengren.nu/Projekt/Stratasys_uPrint.html#bilder)
+# [Stratasys uPrint](https://caspian.rosengren.nu/gammal/Projekt/Stratasys_uPrint.html#bilder)
 
 ## Bakgrund
 

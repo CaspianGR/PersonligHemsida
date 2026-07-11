@@ -5,8 +5,8 @@
 
 |                                 Designs                                 |
 | :------------------------------------------------------------------------: |
-| [Armless Dress](https://caspian.rosengren.nu/Kläder/Armless_Dress.html) |
-|  [CoolKläning](https://caspian.rosengren.nu/Kläder/CoolKläning.html)  |
+| [Armless Dress](https://caspian.rosengren.nu/gammal/Kläder/Armless_Dress.html) |
+|  [CoolKläning](https://caspian.rosengren.nu/gammal/Kläder/CoolKläning.html)  |
 
 # Coola saker jag inte har sytcol
 
@@ -26,7 +26,7 @@ Kjolen er förmodligen en vanlig kjol
 
 [KoolKläning](https://www.goodsmile.com/en/product/12825/TENITOL+NEO+TOKYO+Series+IDOL)
 
-## [Svart Kläning](https://caspian.rosengren.nu/Kläder/SvartKlaning.html)
+## [Svart Kläning](https://caspian.rosengren.nu/gammal/Kläder/SvartKlaning.html)
 
 ![](assets/20250912_184657_GqhH62mXAAAoZKS-595209248.jpg)
 
@@ -49,5 +49,5 @@ Tyget får vara någont lite med mer flytande, kanske använder ett tyg under f�
 
 | Designs                                                               |
 | ----------------------------------------------------------------------- |
-| [Firn](https://caspian.rosengren.nu/Kläder/cosplay/firnCosplay.html) |
-| [2B](https://caspian.rosengren.nu/Kläder/cosplay/2B-Cosplay.html)    |
+| [Firn](https://caspian.rosengren.nu/gammal/Kläder/cosplay/firnCosplay.html) |
+| [2B](https://caspian.rosengren.nu/gammal/Kläder/cosplay/2B-Cosplay.html)    |
