@@ -1,5 +1,3 @@
-rp
-
 * [Projekt](/projekt.html)
 *
 
