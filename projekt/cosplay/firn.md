@@ -24,6 +24,13 @@ Utsidan skall vara Gul eller unange och Skall vara ett tjokt bomull eller ull ty
 
 Insidan skall var ett foder som skall gör minemera friktionen
 
+#### Utsidan
+
+Stenkrosen
+
+![](assets/20260726_211052_PXL_20260725_101339442.jpg)
+
+
 ### Konstroktion
 
 Bygs på något viss.
@@ -81,7 +88,6 @@ Läder?
 ## Gevär
 
 Skall vara 2d med leds integrat för att simulera animationen
-
 
 ![](assets/20250515_193447_eaoe.png)
 
