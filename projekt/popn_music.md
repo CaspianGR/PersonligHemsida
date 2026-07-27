@@ -16,7 +16,7 @@ utskiften tar cirka 2,5 kg av plast
 
 ![](assets/20260727_223730_popnController.gif)
 
-## Knappar
+## Kompuneter
 
 
 | Kompunent                                                                                    | Kostnad     | Antal | tut     |
