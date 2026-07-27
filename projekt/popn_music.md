@@ -4,7 +4,7 @@
 
 ## 3D dellar
 
-Du kan hitta alla dellar [här](https://www.printables.com/model/1767870-screwless-popn-music-controller)
+Du kan hitta alla dellar [här](https://www.printables.com/model/1767870-screwless-popn-music-controller). Jag förklarar även visa saker bätre där.
 
 ![](assets/20260727_223055_2.webp)
 
