@@ -16,6 +16,9 @@ utskiften tar cirka 2,5 kg av plast
 
 ![](assets/20260727_223730_popnController.gif)
 
+## Mjukvara
+kommer snart xD
+
 ## Kompuneter
 
 
