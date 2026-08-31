@@ -3,7 +3,7 @@
 
 | Namn                        | Beskrivning |
 | --------------------------- | ----------- |
-| [EIEF30](Skola/EIEF30.html) | Styr regler |
+| [EIEF30](skola/EIEF30.html) | Styr regler |
 |                             |             |
 |                             |             |
 |                             |             |

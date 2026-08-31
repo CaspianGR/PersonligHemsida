@@ -1,7 +1,7 @@
 # För min omtentamen
 
 * Upgift 1
-  * a
+  * [a](#1a)
   * b
   * c
   * d
