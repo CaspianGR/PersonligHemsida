@@ -4,13 +4,13 @@
 
 ![](assets/20260831_211736_image.png)
 
-### a)
+### 1a)
 
 ![](assets/20260831_212227_image.png)
 
 stuva om de så att du får u(t)/y(t) och ärset derivaran med s
 
-### b)
+### 1b)
 
 ![](assets/20260831_212433_image.png)
 
@@ -18,13 +18,13 @@ Hitta nolstelerna för nämnaren
 
 båda ska vara negativa för att den ska vara stabil
 
-### c)
+### 1c)
 
 ![](assets/20260831_212535_image.png)
 
 Läg på en impuls (se formelsamling) och seda gör invärsen för att få den nya funktionen
 
-### d)
+### 1d)
 
 ![](assets/20260831_212809_image.png)
 
@@ -35,15 +35,15 @@ Läg på en steg (se formelsamling) och seda gör invärsen för att få den nya
 
 ![](assets/20260831_212955_image.png)
 
-### a)
+### 2a)
 
 ![](assets/20260831_213025_image.png)
 
-### b)
+### 2b)
 
 ![](assets/20260831_213444_image.png)
 
-### c)
+### 2c)
 
 ![](assets/20260831_213517_image.png)
 
@@ -53,21 +53,21 @@ Läg på en steg (se formelsamling) och seda gör invärsen för att få den nya
 
 ![](assets/20260831_213706_image.png)
 
-### a)
+### 3a)
 
 ![](assets/20260831_213746_image.png)
 
-### b)
+### 3b)
 
 ![](assets/20260831_213820_image.png)
 
 
-### c)
+### 3c)
 
 ![](assets/20260831_213831_image.png)
 
 
-### d)
+### 3d)
 
 ![](assets/20260831_213840_image.png)
 
@@ -77,22 +77,22 @@ Läg på en steg (se formelsamling) och seda gör invärsen för att få den nya
 ![](assets/20260831_213956_image.png)
 
 
-### a)
+### 4a)
 
 ![](assets/20260831_214008_image.png)
 
 
-### b)
+### 4b)
 
 ![](assets/20260831_214020_image.png)
 
 
-### c)
+### 4c)
 
 ![](assets/20260831_214031_image.png)
 
 
-### d)
+### 4d)
 
 ![](assets/20260831_214042_image.png)
 
@@ -101,17 +101,17 @@ Läg på en steg (se formelsamling) och seda gör invärsen för att få den nya
 ![](assets/20260831_214134_image.png)
 
 
-### a)
+### 5a)
 
 ![](assets/20260831_214159_image.png)
 
 
-### b)
+### 5b)
 
 ![](assets/20260831_214223_image.png)
 
 
-### c)
+### 5c)
 
 ![](assets/20260831_214239_image.png)
 
@@ -122,19 +122,19 @@ Läg på en steg (se formelsamling) och seda gör invärsen för att få den nya
 ![](assets/20260831_214324_image.png)
 
 
-### a)
+### 6a)
 
 ![](assets/20260831_214418_image.png)
 
 
-### b)
+### 6b)
 
 ![](assets/20260831_214435_image.png)
 
 ![](assets/20260831_214501_image.png)
 
 
-### c)
+### 6c)
 
 ![](assets/20260831_214521_image.png)
 
