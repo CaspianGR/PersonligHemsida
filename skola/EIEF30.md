@@ -1,5 +1,34 @@
 # För min omtentamen
 
+* Upgift 1
+  * a
+  * b
+  * c
+  * d
+* Upgift 2
+  * a
+  * b
+  * c
+  * d
+* Upgift 3
+  * a
+  * b
+  * c
+  * d
+* Upgift 4
+  * a
+  * b
+  * c
+  * d
+* Upgift 5
+  * a
+  * b
+  * c
+* Upgift 6
+  * a
+  * b
+  * c
+
 ## Upgift 1
 
 ![](assets/20260831_211736_image.png)
@@ -29,7 +58,6 @@ Läg på en impuls (se formelsamling) och seda gör invärsen för att få den n
 ![](assets/20260831_212809_image.png)
 
 Läg på en steg (se formelsamling) och seda gör invärsen för att få den nya funktionen
-
 
 ## Upgift 2
 
@@ -61,36 +89,29 @@ Läg på en steg (se formelsamling) och seda gör invärsen för att få den nya
 
 ![](assets/20260831_213820_image.png)
 
-
 ### 3c)
 
 ![](assets/20260831_213831_image.png)
-
 
 ### 3d)
 
 ![](assets/20260831_213840_image.png)
 
-
 ## Upgift 4
 
 ![](assets/20260831_213956_image.png)
-
 
 ### 4a)
 
 ![](assets/20260831_214008_image.png)
 
-
 ### 4b)
 
 ![](assets/20260831_214020_image.png)
 
-
 ### 4c)
 
 ![](assets/20260831_214031_image.png)
-
 
 ### 4d)
 
@@ -100,16 +121,13 @@ Läg på en steg (se formelsamling) och seda gör invärsen för att få den nya
 
 ![](assets/20260831_214134_image.png)
 
-
 ### 5a)
 
 ![](assets/20260831_214159_image.png)
 
-
 ### 5b)
 
 ![](assets/20260831_214223_image.png)
-
 
 ### 5c)
 
@@ -121,18 +139,15 @@ Läg på en steg (se formelsamling) och seda gör invärsen för att få den nya
 
 ![](assets/20260831_214324_image.png)
 
-
 ### 6a)
 
 ![](assets/20260831_214418_image.png)
-
 
 ### 6b)
 
 ![](assets/20260831_214435_image.png)
 
 ![](assets/20260831_214501_image.png)
-
 
 ### 6c)
 
