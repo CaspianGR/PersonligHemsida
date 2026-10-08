@@ -8,7 +8,7 @@ Intre så mycket fram till 2028 eftersom att kötiderna till kliniken i malmö �
 
 # Varför inga tecken inan
 
-Jag har bara försökt ignorer tankarna i hjärnan 
+Jag har bara försökt ignorer tankarna i hjärnan
 
 # Varför nu
 
@@ -19,3 +19,7 @@ eftersom att när jag flytade till helsingborg så bröts alla mina rutiner så 
 Hemligt ;)
 
 Detaljer kommer senare
+
+# Till pappa
+
+om du inte redan vet om detta så är de ett intresant set att få veta de xD. Trude mamma beretade de.
