@@ -16,7 +16,7 @@ eftersom att när jag flytade till helsingborg så bröts alla mina rutiner så 
 
 # Vad vill jag ärdra
 
-Hemligt ;)
+Hemligt [;)](https://www.youtube.com/watch?v=6VJBBUqr1wM)
 
 Detaljer kommer senare
 
