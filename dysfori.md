@@ -1,25 +1,25 @@
 # Ja jag har de xD
 
-Några frågen? tyvär jag svara inte på dem
+Några frågor? tyvärr jag svarar inte på dem
 
-# Vad kommer endras
+# Vad kommer ändras
 
-Intre så mycket fram till 2028 eftersom att kötiderna till kliniken i malmö är väldigt långa
+Inte så mycket fram till 2028 eftersom att kötiderna till kliniken i malmö är väldigt långa
 
-# Varför inga tecken inan
+# Varför inga tecken innan
 
-Jag har bara försökt ignorer tankarna i hjärnan
+Jag har bara försökt ignorera tankarna i hjärnan
 
 # Varför nu
 
-eftersom att när jag flytade till helsingborg så bröts alla mina rutiner så jag konde ingorera "rösterna" i hjärnan
+Eftersom att när jag flyttade till helsingborg så bröts alla mina rutiner så jag kunde ignorera “rösterna” i hjärnan
 
 # Vad vill jag ärdra
 
-Hemligt [;)](https://www.youtube.com/watch?v=6VJBBUqr1wM)
+Hemligt [;)](https://www.youtube.com/watch?v=6VJBBUqr1wM&t=91)
 
 Detaljer kommer senare
 
 # Till pappa
 
-om du inte redan vet om detta så är de ett intresant set att få veta de xD. Trude mamma beretade de.
+om du inte redan vet om detta så är det ett intressant set att få veta det xD. Trodde mamma berättade det. 
