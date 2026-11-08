@@ -1,3 +1,9 @@
+# Samanfatning
+Detta projekt har avslitats på grung av problem med designen som int går att fiva 
+- Ramen är inte styv nog 
+- Bellow designen var inte optimal
+- Ingen hotens 
+Projektet kommer plåkas isär
 # Bilder
 
 ![](assets/20260712_000016_PXL_20260711_143450721.jpg)
