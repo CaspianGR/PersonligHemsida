@@ -4,7 +4,7 @@ Detta är en samanställing av alla företag som stälde ut på arkad som jag ä
 
 Vissa har öpna exjob medans andra bara söker folk effter examen
 
-[Combine, colla project](combine.se)
+[Combine, colla project, kontakta diana Wallmark om exjob](combine.se)
 
 [Aimpoint, har ett examensarbeto om att bygga kalibrerings utrusting för sikten](https://karriar.aimpoint.se/jobs/8670194-thanks-for-visiting-the-aimpoint-booth-at-arkad/83516089-7088-43ac-8ec1-56662ef8d22e)
 
@@ -21,6 +21,8 @@ Vissa har öpna exjob medans andra bara söker folk effter examen
 ["MSB", gör mycket men nog inget för mig](https://www.mcf.se/sv/om-oss/jobba-hos-oss/praktik-examensjobb-och-sommarjobb/)
 
 [Purac ,consulter?](https://www.jobfinder.se/job/purac-trainee/)
+
+
 
 [MilDef, Miletär komunikations utrusting](https://www.gknaerospace.com/se/karriaer/examensarbete/)
 
@@ -87,3 +89,20 @@ Om Schneider kontakta Hulda.berg@non.se.com
 [Nederman group, luft rengörings utrustning ](https://www.nedermangroup.com/en/career/students-and-graduates)
 
 [Cellavision, gör blood prövnins utrustning](https://www.linkedin.com/jobs/view/4481486243/)
+GKN Aerospace, gör allt om motorer.
+
+FRA - Radio anstalten 
+
+BorgWarner - Billar, fins en qr kod
+
+[Exensor, miletär sensorer, kontakta titi om att få göra testning](https://www.exensor.com/)
+
+FOI, Miletär forskning
+
+Sectra - tåg
+
+ [Scanfil - byger saker ](https://www.scanfil.com/) 
+
+Techtank
+
+VASYD - vatenrening
