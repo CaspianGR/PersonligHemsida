@@ -4,9 +4,9 @@ Detta är en samanställing av alla företag som stälde ut på arkad som jag ä
 
 Vissa har öpna exjob medans andra bara söker folk effter examen
 
-[Combine, colla project, kontakta diana Wallmark om exjob](combine.se)
+[Combine, colla project, kontakta diana Wallmark om exjob](https://combine.se)
 
-[Aimpoint, har ett examensarbeto om att bygga kalibrerings utrusting för sikten](https://karriar.aimpoint.se/jobs/8670194-thanks-for-visiting-the-aimpoint-booth-at-arkad/83516089-7088-43ac-8ec1-56662ef8d22e)
+-[Aimpoint, har ett examensarbeto om att bygga kalibrerings utrusting för sikten](https://karriar.aimpoint.se/jobs/8670194-thanks-for-visiting-the-aimpoint-booth-at-arkad/83516089-7088-43ac-8ec1-56662ef8d22e)
 
 [Volvo, not cars](https://www.volvogroup.com/en/careers/students-and-graduates.html)
 
@@ -24,13 +24,13 @@ Vissa har öpna exjob medans andra bara söker folk effter examen
 
 
 
-[MilDef, Miletär komunikations utrusting](https://www.gknaerospace.com/se/karriaer/examensarbete/)
+har inte jete mycket [MilDef, Miletär komunikations utrusting](https://www.gknaerospace.com/se/karriaer/examensarbete/)
 
 [Beckoff, Har inga exJob opna men man kan kontakta dem med förslag](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Rh9bd-1AAE-pv1Fjc1zSfYTvN49F68VGkwDlrBKENSVUM0hHNUFVODFVS0I0WFJWQTY1NzhXSUpIQy4u&route=shorturl)
 
 [Abb](https://careers.abb/global/en/home)
 
-[Abb carier](https://careers.abb/sweden/se/abb-discovery-graduate-program-english)
+kräver masters - [Abb carier](https://careers.abb/sweden/se/abb-discovery-graduate-program-english)
 
 IAESTE - utomlans project
 
@@ -38,7 +38,7 @@ IAESTE - utomlans project
 
 [Blekinge Stad](https://www.blekinge.se/)
 
-[Granitor systems AB(linkedin), automation företag som bygger colla saker dem har min epost](https://www.linkedin.com/company/granitor-systems-ab/?viewAsMember=true)
+kontacktat - [Granitor systems AB(linkedin), automation företag som bygger colla saker dem har min epost](https://www.linkedin.com/company/granitor-systems-ab/?viewAsMember=true)
 
 [Academicwork, konsult](https://account.academicwork.com/login?flow=bb7688f2-e937-4cad-9609-d2048e601666)
 
@@ -52,15 +52,15 @@ IAESTE - utomlans project
 
 [Tetrapack, öpna känster](https://jobs.tetrapak.com/job/Lund-Future-Talent-Program-2027-Expression-of-Interest-(Europe,-Greater-Middle-East-&-Africa)/100817-en_GB/?utm_campaign=career_fair)
 
-[Rörkraft, byger industr anlägningar, colla saker](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=pwAyAwU9cECePHBq9ehPi1zeElsDMG9DlaCv-5mr4WtUMVRRWjI2U1RCS1FTRERJNjZRUU1UWTVBNC4u&origin=QRCode)
+-[Rörkraft, byger industr anlägningar, colla saker](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=pwAyAwU9cECePHBq9ehPi1zeElsDMG9DlaCv-5mr4WtUMVRRWjI2U1RCS1FTRERJNjZRUU1UWTVBNC4u&origin=QRCode)
 
 [NIBE, konsul](https://www.nibe.eu/sv-se/om-nibe/jobba-hos-oss)
 
-[Kalmar, stora maskiner ](https://docs.google.com/forms/d/e/1FAIpQLScma2fkijrlPP1XnV9oH-dU481FiZI_HJcg1bPj-hQPHIbwtg/viewform)
+-[Kalmar, stora maskiner ](https://docs.google.com/forms/d/e/1FAIpQLScma2fkijrlPP1XnV9oH-dU481FiZI_HJcg1bPj-hQPHIbwtg/viewform)
 
-[Kalmars möjlighetter inom el](https://jobs.kalmarglobal.com/Kalmar/job/Senior-Development-Engineer-Electric-Drive/26109-en_GB)
+verkar inte ha någonting [Kalmars möjlighetter inom el](https://jobs.kalmarglobal.com/Kalmar/job/Senior-Development-Engineer-Electric-Drive/26109-en_GB)
 
-[Roxtec, Packningr i karlskrona](https://www.roxtec.com/sv/to/lat-oss-halla-kontakten/)
+-[Roxtec, Packningr i karlskrona](https://www.roxtec.com/sv/to/lat-oss-halla-kontakten/)
 
 [ASSA, Lås, dör och andra system](https://www.assaabloy.com/career/en/students)
 
