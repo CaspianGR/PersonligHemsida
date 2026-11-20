@@ -39,6 +39,7 @@ IAESTE - utomlans project
 [Blekinge Stad](https://www.blekinge.se/)
 
 kontacktat - [Granitor systems AB(linkedin), automation företag som bygger colla saker dem har min epost](https://www.linkedin.com/company/granitor-systems-ab/?viewAsMember=true)
+https://www.granitor.se/systems/kontakta-oss#kontor
 
 [Academicwork, konsult](https://account.academicwork.com/login?flow=bb7688f2-e937-4cad-9609-d2048e601666)
 
